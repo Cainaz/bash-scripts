@@ -1,5 +1,7 @@
 #!/bin/bash
 
+clear
+
 # Time variable (seconds)
 sek=0
 
